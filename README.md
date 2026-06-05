@@ -36,3 +36,4 @@ Tools: Excel
 
 📧 tharineeshm@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/tharineeshm)
+🌐 tharineeshm.me
