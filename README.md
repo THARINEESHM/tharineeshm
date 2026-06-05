@@ -33,7 +33,10 @@ Tools: Excel
 `MS Excel` `VLOOKUP` `PivotTables` `Bank Reconciliation` `Financial Analysis`
 
 ---
+## Connect With Me
 
-📧 tharineeshm@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/tharineeshm)
-🌐 tharineeshm.me
+🌐 Portfolio: https://tharineeshm.me
+
+🔗 LinkedIn: https://linkedin.com/in/tharineeshm
+
+📧 Email: tharineeshm@gmail.com
